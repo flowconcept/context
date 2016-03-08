@@ -1,5 +1,5 @@
 {
-  "name": "drupal/context",
+  "name": "flowconcept/context",
   "description": "Set conditions and configure reactions that should be implemented when conditions pass.",
   "type": "drupal-module",
   "license": "MIT",
